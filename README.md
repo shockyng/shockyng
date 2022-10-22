@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 ##
 
-Passionate by software developmet. Always focused on do my best, as best as I can. I am working, for a couple years, creating and maintaining web applications using Java/Kotlin echosistem.
+Passionate by software development. Always focused on do my best, as best as I can. I am working, for a couple years, creating and maintaining web applications using Java
 
 <br>
 
