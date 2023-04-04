@@ -7,7 +7,8 @@ You can click the Preview link to take a look at your changes.
 
 ##
 
-Passionate by software development. Always focused on do my best, as best as I can. I am working, for a couple years, creating and maintaining web applications using Java/Kotlin echosistem.
+I am a software developer by passion. I have been working for seven years building corporate systems. I am highly focused on delivering quality code, following best practices, and keeping myself updated in the world of technology. The challenge and productivity keep me extremely excited to work.
+
 
 <br>
 
