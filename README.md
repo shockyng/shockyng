@@ -12,7 +12,6 @@ I am a software developer by passion. I have been working for seven years buildi
 
 <br>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/shockyng_?style=social)](https://twitter.com/shockyng_)
 [![Linkedin: shockyng](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/loiane/)](https://www.linkedin.com/in/shockyng/)
 
 ##
